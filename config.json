@@ -1,0 +1,21 @@
+{
+    "token": "Your token here", / le token de votre bot 
+    "prefix": "your prefix", / le prefix tu bot
+    "wlrole": "withelisted role", / le role Whitelist
+    "helperRole": "whitelister role", / le role Helper 
+    "embedColor": "2c2f33", / ne pas changer 
+    "m_AlreadyPubing_title": ":x: Une publicité est déjà en cours dans ce salon", / ne pas changer 
+    "m_AlreadyPubing_description": "Interrompez la publicité en cours ou attendez qu'elle se termine pour démarrer une nouvelle publicité dans ce salon", / ne pas changer 
+    "m_AlreadyPubing_footer": "Appuyez sur la croix pour annuler l'opération", / ne pas changer 
+    "m_wl_sucess": ":white_check_mark: 〃vient d'obtenir l'accès à Aria Sponsor Public, check <#1233936741522735156>", / ne pas changer 
+    "m_wl_error": ":x: Impossible de trouver cet utilisateur", / ne pas changer 
+    "m_wl_null": ":x: Veuillez mentionner la personne à wl", / ne pas changer 
+    "m_token_invalide_title": ":x: Le token est invalide ou a expiré", / ne pas changer 
+    "m_token_invalid_description": "Il se peut que votre bot ait été banni par discord, ou vous deviez allez rechercher un nouveau token dans l'linterface développeur de Discord", / ne pas changer 
+    "m_pub_s1_stopped": ":x: Interruption de la publicité à votre demande", / ne pas changer 
+    "m_pub_time_stop_title": ":x: Temps écoulé", / ne pas changer 
+    "m_pub_time_stop_description": "Le delai imparti pour l'étape en cours est expiré", / ne pas changer 
+    "stream": "Aria Sponsor Bot" / ne pas changer 
+
+    
+}
