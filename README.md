@@ -1,5 +1,5 @@
 <h1 align="center">
-✅・Sponsor Bot・⚙
+📚・Sponsor Bot・⚙
 </h1>
 
 ---
