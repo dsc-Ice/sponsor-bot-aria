@@ -5,7 +5,7 @@
 ---
 ## <a id="menu"></a>🔱 » Menu
 
-- [🌌・Discord](https://discord.gg/EuR6yXChhG)
+- [🌌・Discord](https://discord.gg/akamfr)
 
 ## <a id="setup"></a> 📁 » Setting up
 
